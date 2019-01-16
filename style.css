@@ -1,0 +1,32 @@
+body{
+    background-image: url(/home/user/Bureau/Mon-CV/images/linea.jpg);
+}
+
+.general{
+    width: 780px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.infophoto {
+    margin-top: 50px;
+    height: 250px;
+    border: solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.info {
+  margin-top: 25px;
+}
+.photo {
+    margin-top: 25px;
+}
+.section {
+    margin-top: 50px;
+    height: 250px;
+    border: solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
