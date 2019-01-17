@@ -22,7 +22,7 @@ body{
 .photo {
     margin-top: 25px;
 }
-.section {
+.sectionone {
     margin-top: 50px;
     height: 250px;
     border: solid black;
@@ -30,3 +30,58 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.rightone {
+    margin-top: 25px;
+}
+.sectiontwo {
+    margin-top:50px;
+    height: 250px;
+    border: solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    overflow-y: auto;
+}
+.lefttwo {
+margin-left: 20px;
+}
+
+.righttwo {
+    margin-top: 50px;
+}
+.under {
+    text-decoration-line: underline;
+}
+.sectionthird {
+    margin-top:50px;
+    height: 200px;
+    border: solid black;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.leftthird {
+    margin-left: 20px;
+}
+.sectionfour {
+    margin-top: 50px;
+    height: 200px;
+
+}
+.leftfour {
+    border: solid black; 
+    background-color: white;
+    float: left;
+    padding: 10px;
+}
+.rightfour {
+    border: solid black;
+    background-color: white;
+    float: right;
+    width: 400px;
+    padding: 20px;
+}
+.font {
+    color: red;
+}
+
