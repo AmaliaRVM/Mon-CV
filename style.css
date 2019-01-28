@@ -1,5 +1,5 @@
 body{
-    background-image: url(/home/user/Bureau/Mon-CV/images/linea.jpg);
+    background-image: url(images/linea.jpg);
 }
 
 .general{
@@ -7,6 +7,7 @@ body{
     margin: auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
+   
 }
 .infophoto {
     margin-top: 50px;
@@ -21,6 +22,10 @@ body{
 }
 .photo {
     margin-top: 25px;
+}
+.amiphoto {
+    width:200px; 
+    height:200px;
 }
 .sectionone {
     margin-top: 50px;
